@@ -5,9 +5,13 @@
  * Return: 0 if no error, none zero if error
  */
 int main(void)
-{	char i;
+{
+	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
-{	putchar(i);
+	{
+		putchar(i);
+	}
+	putchar('\n');
 	return (0);
 }
