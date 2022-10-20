@@ -28,4 +28,5 @@ extern void print_to_98(int n);
 
 extern void print_times_table(int n);
 
+extern int _putchar(char c);
 #endif
