@@ -19,7 +19,7 @@ int main(void)
 		else if (i % 3 == 0)
 			printf("Fuzz");
 		else if (i % 5 == 0)
-			printf(Buzz);
+			printf("Buzz");
 		else
 			printf("%i", i);
 		if (i < 100)
