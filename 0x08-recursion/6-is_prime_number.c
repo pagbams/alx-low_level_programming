@@ -2,7 +2,7 @@
 
 int check_prime(int, int);
 /**
- * is _prime_number -> prime identifier
+ * is_prime_number -> prime identifier
  * @n: is number
  * Return: integer
  */
